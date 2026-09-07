@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./linkedin_banner.png" alt="Hilderaldo Barbosa" width="100%">
+  <img src="./linkedin_banner(3).png" alt="Hilderaldo Barbosa" width="100%">
 </p>
 
 
