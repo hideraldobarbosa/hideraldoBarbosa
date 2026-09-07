@@ -1,7 +1,7 @@
 ![Banner](./linkedin_banner%20(3).png)
 
 
-## Hi there 👋
+## Olá você 👋
 
 <!--
 **hideraldobarbosa/hideraldoBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
