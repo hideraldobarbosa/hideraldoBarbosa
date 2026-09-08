@@ -37,7 +37,7 @@ Sou um engenheiro de software com mais de 30 anos de experiência na construçã
 * **B3 (Bolsa de Valores):** Atuação no desenvolvimento do Hub Balcão, o primeiro sistema da companhia a operar em cloud computing, substituindo soluções terceirizadas com alta performance.
 * **Banco Santander:** Integração na equipe de Open Banking, desenvolvendo o sistema regulatório do Banco Central e sustentando sistemas críticos de processamento de pagamentos.
 * **Tora Logística:** Desenvolvimento e implementação de soluções para emissão de Documentos Fiscais (CT-e, NF-e, NFS-e) e integrações vitais com a Receita Federal (SEFAZ).
-* **Supermercados BH & Copasa:** Automação de abastecimento de supply chain via Centro de Distribuição e desenvolvimento de integrações backend com CRM Dynamics 365.
+* **Supermercados BH & Copasa:** Automação de abastecimento de supply chain via Centro de Distribuição contemplando as loja através de requisições de produtos criticos na reposição  desenvolvimento de integrações backend em microserviços.
 
 ---
 
